@@ -16,21 +16,21 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 An **explainable AI system** that transforms unstructured issue descriptions into structured, actionable insights for administrators.
 
 ### Key Capabilities:
-- ✅ Automatic categorization & priority prediction
-- ✅ Handles Hinglish, spelling errors, informal language
-- ✅ Explainable decisions (ML + Rules hybrid)
-- ✅ Recurring pattern detection
-- ✅ Time-aware trend analysis
-- ✅ Department load balancing
+-  Automatic categorization & priority prediction
+-  Handles Hinglish, spelling errors, informal language
+-  Explainable decisions (ML + Rules hybrid)
+-  Recurring pattern detection
+-  Time-aware trend analysis
+-  Department load balancing
 
 ---
 
-## 🎨 Features (10 USPs)
+## Features (10 USPs)
 
 1. **Explainable Priority Prediction** - Every decision has clear reasoning
 2. **Impact × Urgency Logic** - Multi-dimensional priority scoring
@@ -45,7 +45,7 @@ An **explainable AI system** that transforms unstructured issue descriptions int
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 ```
 User Input (Hinglish/Informal)
         ↓
@@ -74,7 +74,7 @@ User Input (Hinglish/Informal)
 
 ---
 
-## 💻 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8+
@@ -114,7 +114,7 @@ chmod +x run_app.sh
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### 1. Web Interface
 ```bash
